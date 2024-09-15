@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "418890902321",
+    "project_id": "noteappwithroom",
+    "storage_bucket": "noteappwithroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418890902321:android:dd6802af3e59f50bf21e10",
+        "android_client_info": {
+          "package_name": "com.example.noteappwithroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418890902321-m98j9u20u13l8ogj0g8sgsrjc9m71v7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.noteappwithroom",
+            "certificate_hash": "c8db8e77d80c44c5745436a8cd310cea36d7afab"
+          }
+        },
+        {
+          "client_id": "418890902321-8csb6027o5rkf3qnbl2aq08ao8sandni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8lyr16u9v1fGEp_yd39Uzn7SLfihPB8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418890902321-8csb6027o5rkf3qnbl2aq08ao8sandni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
